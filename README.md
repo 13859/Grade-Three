@@ -1,2 +1,2 @@
-# Grade-Three
-在github上的第一个仓库，大三上的期末项目都会放在这里，以此记录编程生涯
+# Grade-Three--Analysist
+大三上编译原理期末项目--语法分析器及词法分析器
